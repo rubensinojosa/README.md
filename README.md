@@ -1,8 +1,8 @@
 <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	✅Welcome to my GitHub🚀
 </h1>
 
-### 👦Sobre mim :seedling: : 
+### 👦About me :seedling: : 
 - 👋 My name is **Rubens F. Oliveira Inojosa de Andrade**, and I am 29 years old.
 - 📌 I'm from Recife-PE, Brasil.
 - 💼 I am currently looking for a job or an internship in an IT company.
