@@ -13,10 +13,10 @@
 <hr>
 
 ### ⚡ Abilities:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) [![CSS](http://ForTheBadge.com/images/badges/uses-css.svg)] ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📦 Databases:
-- [![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)]
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
 
 
 ### 🧰 Tools:
@@ -37,7 +37,7 @@
 
 ## ✅ Social✉️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rubensinojosa)]
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/rubensinojosa/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rubensinojosa)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rubensinojosa)
 
 
