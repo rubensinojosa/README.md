@@ -31,7 +31,7 @@
 [![Rubens github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rubensinojosa&theme=cobalt&show_icons=true)](https://github.com/rubensinojosa/github-readme-stats)
 
 ### 📈  Most used languages
-![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubensinojosa&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubensinojosa&theme=react&line_height=40&hide=css")
 
 <hr>
 
